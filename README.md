@@ -25,7 +25,7 @@ This application can be used to write, save, and delete notes. Application will 
 
 In order for this appllication to work correctly the following npm needs to be installed:
 
-`npm i express`
+``npm i express``
 
 ## Usage
 
@@ -55,7 +55,7 @@ Feel free to contribute to this application.
 
 ## Tests
 
-[Demo]()
+[Demo](https://youtu.be/JatcO-yQ8jU)
 
 ## Questions?
 
