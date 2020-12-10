@@ -1,0 +1,15 @@
+{
+  "short_name": "Note Taker",
+  "name": "Web App Note Taker",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "*",
+  "background_color": "#808080",
+  "display": "standalone",
+  "theme_color": "#808080"
+}

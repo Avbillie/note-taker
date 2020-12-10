@@ -47,7 +47,7 @@ On start up of the application the user will be provide a button to click that w
 
 ## License
 
-Copyright (C) Anthony Billie this project is licensed under the [GNU General Public License v2.0](/LICENSE.md).
+Copyright (C) Anthony Billie this project is licensed under the [MIT](https://opensource.org/licenses/MIT).
 
 ## Contributing
 
